@@ -1,0 +1,25 @@
+_repo: The-Passing-of-Empire_58356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, H. (Harold)
+    aliases:
+    - Fielding, Harold
+    - Fielding-Hall, H. (Harold)
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '33965'
+    url: http://www.gutenberg.org/2009/agents/33965
+description: ''
+gutenberg_issued: '2018-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Passing of Empire
+url: http://www.gutenberg.org/ebooks/58356
