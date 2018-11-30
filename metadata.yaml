@@ -1,5 +1,8 @@
 _repo: The-Passing-of-Empire_58356
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58356-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Fielding, H. (Harold)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '33965'
     url: http://www.gutenberg.org/2009/agents/33965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58356#The-Passing-of-Empire
 gutenberg_issued: '2018-11-25'
 gutenberg_type: Text
 identifiers:
